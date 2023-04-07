@@ -1,0 +1,49 @@
+body {
+    background-image: url(../Assets/images/istockphoto-184103864-612x612.jpeg);
+    background-size: 1750px;
+    color: white;
+}
+.navbar {
+    background-color: blue;
+}
+
+.navbar a {
+    color: white;
+    font-size: 35px;
+    
+}
+
+.weather {
+    border: 1px;
+}
+.top-container {
+    border: 1px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: larger;
+    background-color: lightskyblue;
+    color: black;
+    
+}
+
+#five-day {
+    background-color: lightskyblue;
+    color: black;
+    
+}
+.days {
+    border: 1px solid black;
+    font-weight: bold;
+    font-size: larger;
+    
+
+}
+
+#city-list {
+    display: flex;
+    flex-direction: column;
+    
+}
+h2 {
+    color: white;
+}
